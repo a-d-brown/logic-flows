@@ -1,6 +1,7 @@
 import streamlit as st
 
-# st.title("🧪 💊 Brown's Deprescribing Assurer 🧪 💊 ")
+st.title("Deprescribing Oracle 🔮")
+
 st.write(
     "This tool aims to provide a guide on relevant points to consider when deprescribing a medication. "+
     "While it offers insights into whether deprescribing may be appropriate or inappropriate based on your responses, it cannot provide a definitive answer. "+
