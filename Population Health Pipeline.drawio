@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.2.0">
+  <diagram name="Page-1" id="2GY_7wuPncDDB6MdZIyX">
+    <mxGraphModel dx="1234" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3T3PI2FYbwUi27SVwXz3-1" value="&lt;b&gt;Health Outcomes&lt;/b&gt;&lt;div&gt;Average lifespan&lt;/div&gt;&lt;div&gt;Disease prevalence&lt;/div&gt;&lt;div&gt;Disease severity&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Symptom scoring&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Complication rate&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Blood markers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3T3PI2FYbwUi27SVwXz3-2" value="&lt;div&gt;&lt;b&gt;Modifiable Causative Variables (Intervention Targets)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Prescribing rate&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Screening rate&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Review rate&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="170" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3T3PI2FYbwUi27SVwXz3-3" value="&lt;div&gt;&lt;b&gt;Unmodifiable Associated Groupings (Inequality Groups)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Ethnicity&lt;/div&gt;&lt;div&gt;Deprivation&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Rurality&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Organisation&lt;/div&gt;&lt;div&gt;Sex&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Compare raw rates across each category, at ICB level.&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="510" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3T3PI2FYbwUi27SVwXz3-4" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Key Principles&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Adjusting for confounders is hard, but clinical groups can account for a lot of variation.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Better to look at inequalities in causes, not inequalities in outcomes.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="570" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3T3PI2FYbwUi27SVwXz3-5" value="&lt;div&gt;&lt;b&gt;Unmodifiable Causative Variables (Confounders)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Age&lt;/div&gt;&lt;div&gt;Sex (not substantially causative in all disease contexts)&lt;/div&gt;&lt;div&gt;Wider determinants of health (modifiable, but not within MO scope)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Compare at an organisational level using:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Raw rates in a single category, e.g. rate in patients aged 85y+&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Raw rates and apply intuitive local context&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-C&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;onsider using a weighted&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;rate, e.g. rate per age-standardised unit&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="260" width="400" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3T3PI2FYbwUi27SVwXz3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;dashed=1;" edge="1" parent="1" source="3T3PI2FYbwUi27SVwXz3-6" target="3T3PI2FYbwUi27SVwXz3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3T3PI2FYbwUi27SVwXz3-6" value="&lt;div&gt;&lt;b&gt;1. &lt;/b&gt;Identify Variation in &lt;b&gt;Health Outcomes.&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3T3PI2FYbwUi27SVwXz3-7" value="&lt;div&gt;&lt;b&gt;2. &lt;/b&gt;Consider which &lt;b&gt;factors &lt;/b&gt;may be contributing to the variation.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Are they modifiable?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="170" width="300" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
